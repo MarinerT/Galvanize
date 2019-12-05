@@ -1,0 +1,14 @@
+for inline (Jupyter): %matplotlib inline
+
+MATPLOTLIB 
+
+https://matplotlib.org/
+
+Color Palettes for Graphs: https://matplotlib.org/3.1.1/tutorials/colors/colormaps.html
+
+example of how to use a color palette: 
+
+Other examples:
+http://www.randalolson.com/2014/06/28/how-to-make-beautiful-data-visualizations-in-python-with-matplotlib/
+
+
