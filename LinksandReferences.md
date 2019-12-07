@@ -10,5 +10,7 @@ exampleofuseofcolorpalette = plt.plot(kind='scatter',x=[3,2,1], y=[1,2,3], c=[5,
 ```
 * Examples of Graphs: https://matplotlib.org/3.1.1/gallery/index.html
 
+* Other cool examples: http://www.randalolson.com/2014/06/28/how-to-make-beautiful-data-visualizations-in-python-with-matplotlib/
+
 ## PANDAS
 
