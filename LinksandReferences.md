@@ -15,3 +15,7 @@ exampleofuseofcolorpalette = plt.plot(kind='scatter',x=[3,2,1], y=[1,2,3], c=[5,
 ## PANDAS
 ## AWS
 Coding Sample for going through buckets: https://docs.aws.amazon.com/code-samples/latest/catalog/python-s3-list_objects.py.html
+
+## MONGODB
+Using REGEX: https://stackoverflow.com/questions/3305561/how-to-query-mongodb-with-like
+
