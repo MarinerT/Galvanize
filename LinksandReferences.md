@@ -13,4 +13,5 @@ exampleofuseofcolorpalette = plt.plot(kind='scatter',x=[3,2,1], y=[1,2,3], c=[5,
 * Other cool examples: http://www.randalolson.com/2014/06/28/how-to-make-beautiful-data-visualizations-in-python-with-matplotlib/
 
 ## PANDAS
-
+## AWS
+Coding Sample for going through buckets: https://docs.aws.amazon.com/code-samples/latest/catalog/python-s3-list_objects.py.html
