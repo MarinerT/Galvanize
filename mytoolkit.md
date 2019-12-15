@@ -1,6 +1,6 @@
-#My Toolkit
+# My Toolkit
 
-##UNIX Commands
+## UNIX Commands
 
 * Creating a persistent alias in UNIX
 1. nano ~/.bash_profile
