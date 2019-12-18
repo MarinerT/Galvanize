@@ -3,8 +3,8 @@
 ## Distributions in  scipy
 
 #### Parameters
-*stats.poisson: {'mu':}
-*stats.binom: {'n':, 'p':}
-*stats.expon: {'scale':,'loc':}
-*stats.uniform: {'loc':, 'scale':}
-*stats.geom: {'p':}
+* stats.poisson: {'mu':}
+* stats.binom: {'n':, 'p':}
+* stats.expon: {'scale':,'loc':}
+* stats.uniform: {'loc':, 'scale':}
+* stats.geom: {'p':}
