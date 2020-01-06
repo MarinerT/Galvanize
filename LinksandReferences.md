@@ -19,3 +19,6 @@ Coding Sample for going through buckets: https://docs.aws.amazon.com/code-sample
 ## MONGODB
 Using REGEX: https://stackoverflow.com/questions/3305561/how-to-query-mongodb-with-like
 
+## PYTHON
+
+**Errors:** https://www.datacamp.com/community/tutorials/exception-handling-python
