@@ -1,3 +1,4 @@
+# NumPy Notes
 Functions
 
 x.reshape(1,10) (makes row)
@@ -97,7 +98,6 @@ usefulness:
  would return argmin(x) = 11 min(x) = 0
  
  If there are two max values: gives first value
- 
  
  
 
